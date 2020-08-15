@@ -13,5 +13,14 @@ In this assignment, I used deep learning recurrent neural networks to model bitc
 
 [FNG Notebook](lstm_stock_predictor_fng.ipynb)
 
+### Closing Prices vs Fear and Greed Model Evaluation
 
+Which model has a lower loss?
+- The model built on closing prices
+
+Which model tracks the actual values better over time?
+- The model built on closing prices
+
+Which window size works best for the model?
+- Both 2 and 3 seemed to work well.
 
