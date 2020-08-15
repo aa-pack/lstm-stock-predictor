@@ -9,9 +9,9 @@ In this assignment, I used deep learning recurrent neural networks to model bitc
 
 ### Files
 
-[Closing Prices Notebook](lstm_stock_predictor_closing.ipynb)
+[Closing Prices Notebook](Starter_Code/lstm_stock_predictor_closing.ipynb)
 
-[FNG Notebook](lstm_stock_predictor_fng.ipynb)
+[FNG Notebook](Starter_Code/lstm_stock_predictor_fng.ipynb)
 
 ### Closing Prices vs Fear and Greed Model Evaluation
 
